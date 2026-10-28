@@ -135,7 +135,7 @@ I want to enhance this instrument in several ways in the future. Some of the fea
 
 I included well-labelled screenshots of the tasks solved in the screenshots folder.
 
-## Repository Structure
+## Folder Structure
 ```text
 Python-Tool/
 ├── dns_recon.py
