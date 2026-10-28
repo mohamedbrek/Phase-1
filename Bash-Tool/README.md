@@ -159,7 +159,7 @@ Summary
 I included well-labelled screenshots of the tasks solved in the screenshots folder.
 
 
-## Repository Structure
+## Folder Structure
 ```text
 Bash-Tool/
 ├── security_checker.sh
